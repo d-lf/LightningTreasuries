@@ -19,8 +19,6 @@ This list focuses on **real Lightning usage and capital deployment**, not market
 - **Claimed**  
   Mentioned in talks or interviews without primary-source confirmation.
 
-> Status reflects **operational reality**, not intent.
-
 ---
 
 ## Treasury Lightning Deployments
