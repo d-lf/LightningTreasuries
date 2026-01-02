@@ -4,8 +4,6 @@ A community-maintained list of **Bitcoin treasuries and treasury-like entities**
 
 This list focuses on **real Lightning usage and capital deployment**, not marketing claims.
 
----
-
 ## Status definitions
 
 ⚡ **Active on Lightning**  
@@ -26,15 +24,11 @@ Publicly stated opposition to deploying Lightning.
 ❓ **Unknown**  
 No reliable public information available. Contributions welcome.
 
----
-
 ## Treasury Lightning Deployments
 
 | Entity | Type | Country | Lightning Use | Custody Model | Stack | Status | Proof | Operational Detail |
 |------|------|---------|---------------|---------------|-------|--------|-------|--------------------|
 |      |      |         |               |               |       |        |       |                    |
-
----
 
 ## Column definitions
 
@@ -47,8 +41,6 @@ No reliable public information available. Contributions welcome.
 - **Proof** – Primary source (official blog, docs, filing, dashboard)  
 - **Operational Detail** – public node, internal-only, provider-hosted, undisclosed (optional)
 
----
-
 ## How to contribute
 
 1. Edit this `README.md`.
@@ -58,8 +50,6 @@ No reliable public information available. Contributions welcome.
    - **Status** reflects the current operational state.
    - No private, leaked, or sensitive infrastructure details are included.
 4. Open a pull request.
-
----
 
 ## Scope
 
