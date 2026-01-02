@@ -7,7 +7,7 @@ This list focuses on **real Lightning usage and capital deployment**, not market
 ## Status definitions
 
 ⚡ **Active on Lightning**  
-Live Lightning deployment in use for treasury operations (payments, settlement, routing/yield, or liquidity).
+Live Lightning deployment in use for treasury operations (routing/yield, liquidity leasing, payments, etc).
 
 ⏳ **In progress**  
 Publicly announced Lightning deployment that is not yet live.
