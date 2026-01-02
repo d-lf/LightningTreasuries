@@ -8,16 +8,23 @@ This list focuses on **real Lightning usage and capital deployment**, not market
 
 ## Status definitions
 
-- **Active**  
-  Lightning infrastructure is live and in use.
-- **Announced**  
-  Official announcement of Lightning usage, but limited operational detail.
-- **Paused**  
-  Deployment exists but is currently paused or deprecated.
-- **Experimental**  
-  Pilot, test deployment, or limited-scope usage.
-- **Claimed**  
-  Mentioned in talks or interviews without primary-source confirmation.
+⚡ **Active on Lightning**  
+Live Lightning deployment in use for treasury operations (payments, settlement, routing/yield, or liquidity).
+
+⏳ **In progress**  
+Publicly announced Lightning deployment that is not yet live.
+
+🟡 **Signaling / infrastructure only**  
+Operates LN nodes, channels, or provides liquidity, but Lightning is not yet used for core treasury operations.
+
+🔴 **Not active**  
+No Lightning deployment at the moment.
+
+💩 **Explicitly against Lightning**  
+Publicly stated opposition to deploying Lightning.
+
+❓ **Unknown**  
+No reliable public information available. Contributions welcome.
 
 ---
 
